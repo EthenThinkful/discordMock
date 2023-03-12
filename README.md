@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Discord Mock Application
+
+Creating a mock of discord using Tailwind CSS to better learn Tailwind CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
